@@ -1,3 +1,7 @@
+# WIP
+This is a port of [mmcklauncher](https://github.com/SnoutBug/mmcklauncher) to Plasma 6.
+I didnt change any functionalities. All credit goes to the original owner.
+
 # mmcklauncher
 A Launcher for KDE Plasma based on a [design by Max McKinney](https://dribbble.com/shots/10499841-Windows-10-Redesign-UI-Design)
 
