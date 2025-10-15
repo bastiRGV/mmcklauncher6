@@ -1,4 +1,4 @@
-# WIP
+# WORK IN PROGRESS
 This is a port of [mmcklauncher](https://github.com/SnoutBug/mmcklauncher) to Plasma 6.
 I didnt change any functionalities. All credit goes to the original owner.
 
